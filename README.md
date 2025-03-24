@@ -36,12 +36,7 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atiquehossain&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiquehossain&layout=compact&theme=radical" />
-</div>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=atiquehossain&theme=highcontrast)
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atiquehossain&theme=highcontrast" alt="GitHub Streak" /> </p>
 
 ---
 
