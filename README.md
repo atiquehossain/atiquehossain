@@ -5,9 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Flutter+Developer;Kotlin+Enthusiast;AI%2FML+Practitioner;Full-Stack+Learner" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
-</div>
+
 
 ---
 
