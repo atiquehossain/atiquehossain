@@ -1,169 +1,215 @@
 <!--
-Profile README for github.com/atiquehossain
-Tip: Keep this repository public and named exactly: atiquehossain
+  Clean animated GitHub profile README for @atiquehossain
+  Theme: Dark navy + cyan + violet
 -->
 
-<h1 align="center">Hi 👋, I'm Atique Hossain</h1>
+<div align="center">
 
-<h3 align="center">
-  AI Engineer | LLM Applications | AI Automation | Backend Systems
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=255&color=0:020617,45:0EA5E9,100:7C3AED&text=Md.%20Atique%20Hossain&fontAlign=50&fontAlignY=36&fontSize=44&fontColor=F8FAFC&desc=AI%20Engineer%20%7C%20LLM%20Applications%20%7C%20Automation%20Systems&descAlign=50&descAlignY=57&descSize=17&animation=fadeIn" alt="Header banner" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00D8FF&center=true&vCenter=true&width=900&lines=Building+production-grade+AI+systems;LLM+Applications+%7C+RAG+%7C+AI+Automation;OpenAI+API+%7C+FastAPI+%7C+Vector+Search;AI+tools+for+real-world+development+impact"
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=920&lines=Building+production-ready+AI+systems;Designing+LLM+%2B+RAG+workflows;Automating+document+intelligence;Creating+impact-driven+digital+products" alt="Typing animation" />
+</a>
 
-<p align="center">
-  <a href="https://atiquehossain.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/atique-hossain/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:atiqueh23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/atiquehossain">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<br/>
+
+<a href="https://atiquehossain.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/atique-hossain/">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+</a>
+<a href="mailto:atiqueh23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
+</a>
+<a href="https://github.com/atiquehossain">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=F8FAFC" alt="GitHub" />
+</a>
+
+<br/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=atiquehossain&label=Profile%20Views&style=for-the-badge&color=0EA5E9&labelColor=020617" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/atiquehossain?label=Followers&style=for-the-badge&color=7C3AED&labelColor=020617" alt="GitHub followers" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## 🚀 About Me
 
 I am an **AI Engineer** focused on building practical, secure, and production-ready AI systems.
 
-I work on **LLM-powered applications**, **Retrieval-Augmented Generation (RAG)**, **AI workflow automation**, document intelligence, multilingual systems, and scalable backend services. My background combines AI engineering, backend development, mobile app development, and real-world implementation for international NGO and public-sector environments.
+My work combines **LLM applications**, **Retrieval-Augmented Generation (RAG)**, **AI workflow automation**, backend engineering, mobile systems, and real-world implementation for NGO and public-sector environments.
 
-- 🔭 Currently building AI document-analysis chatbots, knowledge retrieval workflows, and automation pipelines
-- 🧠 Specialized in **OpenAI APIs, RAG, vector embeddings, prompt engineering, FastAPI, and AI orchestration**
-- 🌍 Experienced in digital solutions for NGOs, government stakeholders, healthcare, education, and accessibility programs
-- ♿ Led/implemented digital accessibility solutions supporting **10,000+ beneficiaries**
+- 🧠 Building AI document-analysis chatbots and knowledge retrieval workflows
+- ⚙️ Working with **OpenAI APIs, FastAPI, vector embeddings, n8n, and Copilot Studio**
+- 🌍 Creating digital solutions for NGOs, government stakeholders, healthcare, education, and accessibility programs
+- ♿ Helped deliver accessibility-focused systems supporting **10,000+ beneficiaries**
 - 📱 Built offline-first mobile systems serving **20,000+ users**
-- 🎯 Goal: build AI tools that reduce manual work and create measurable real-world impact
+- 🎯 Goal: turn complex operational problems into useful AI tools
+
+</td>
+<td width="42%" align="center" valign="top">
+
+<br/>
+
+<img width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" />
+
+<br/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=390&lines=AI+Automation+Engineer;LLM+Application+Developer;RAG+Workflow+Builder;Backend+%2B+Mobile+Engineer" alt="Role animation" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 AI / ML / LLM Stack
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/RAG-0B1220?style=for-the-badge&logo=googledocs&logoColor=white" alt="RAG" />
-  <img src="https://img.shields.io/badge/Vector%20Embeddings-111827?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector Embeddings" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B5563?style=for-the-badge&logo=sparkles&logoColor=white" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
-</p>
+## ⚙️ Tech Arsenal
 
-## ⚙️ Backend, Automation & Data
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,js,java,kotlin,cpp,flutter,pytorch,tensorflow,postgres,mysql,sqlite,docker,git,githubactions,linux&theme=dark" alt="Tech icons" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier" />
-  <img src="https://img.shields.io/badge/Microsoft%20Copilot-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white" alt="Microsoft Copilot" />
-</p>
+<br/>
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-222222?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector Databases" />
-</p>
+<img src="https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=38BDF8" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=38BDF8" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging%20Face-020617?style=for-the-badge&logo=huggingface&logoColor=FACC15" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/RAG-020617?style=for-the-badge&logo=googledocs&logoColor=A78BFA" alt="RAG" />
+<img src="https://img.shields.io/badge/Vector%20DB-020617?style=for-the-badge&logo=databricks&logoColor=38BDF8" alt="Vector DB" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-020617?style=for-the-badge&logo=sparkles&logoColor=A78BFA" alt="Prompt Engineering" />
 
-## 📱 Mobile & Engineering Tools
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-</p>
+<img src="https://img.shields.io/badge/n8n-020617?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
+<img src="https://img.shields.io/badge/Copilot%20Studio-020617?style=for-the-badge&logo=microsoftcopilot&logoColor=38BDF8" alt="Microsoft Copilot Studio" />
+<img src="https://img.shields.io/badge/Zapier-020617?style=for-the-badge&logo=zapier&logoColor=FF4A00" alt="Zapier" />
+<img src="https://img.shields.io/badge/Postman-020617?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+<img src="https://img.shields.io/badge/Jira-020617?style=for-the-badge&logo=jira&logoColor=38BDF8" alt="Jira" />
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-</p>
+</div>
 
 ---
 
-## 🚀 Featured Work
+## 🧩 Featured Builds
 
-| Project / Area | What I Built | Focus |
-|---|---|---|
-| **AI Proposal Generation Platform** | LLM-powered proposal drafting and structured content generation platform | OpenAI API, PostgreSQL, AI automation |
-| **Document Intelligence Chatbot** | Secure conversational system for PDF analysis, knowledge retrieval, and document Q&A | RAG, vector embeddings, Copilot Studio, n8n |
-| **U-Find Accessibility Platform** | Nationwide accessibility app supporting disabled users in Sri Lanka | Flutter, localization, stakeholder deployment |
-| **Offline-first Health & Education Apps** | Mobile systems designed for field environments with limited connectivity | Flutter, SQLite, offline-first architecture |
-| **CashFlow Keeper** | Personal finance management app with expenses, budgets, and analytics dashboards | Flutter, GetX, SQLite |
-| **Automatic Irrigation System** | IoT-based smart irrigation solution with real-time monitoring | IoT, sensors, research publication |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🧠 AI Proposal Generation Platform
+LLM-powered proposal drafting and structured content generation system.
 
-## 🔍 What I Like Working On
+**Stack:** OpenAI API · PostgreSQL · Python · AI Automation
 
-- Enterprise-ready **LLM applications**
-- Secure **RAG pipelines** for documents and organizational knowledge
-- AI workflow automation using **n8n, Copilot Studio, APIs, and Python**
-- Multilingual data processing and localization systems
-- Offline-first mobile systems for field operations
-- Accessibility-focused digital products
-- AI tools for NGOs, public-sector programs, and social impact
+</td>
+<td width="50%" valign="top">
 
----
+### 📄 Document Intelligence Chatbot
+Secure conversational workflow for PDF analysis, knowledge retrieval, and document Q&A.
 
-## 📊 GitHub Analytics
+**Stack:** RAG · Vector Embeddings · n8n · Copilot Studio
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atiquehossain&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Atique's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiquehossain&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atiquehossain&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+### ♿ U-Find Accessibility Platform
+Accessibility-focused nationwide application supporting disabled users in Sri Lanka.
 
----
+**Stack:** Flutter · Localization · Stakeholder Deployment
 
-## 🐍 Contribution Animation
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+### 📱 Offline-first Field Applications
+Healthcare and education apps designed for low-connectivity field environments.
+
+**Stack:** Flutter · SQLite · Java · Offline-first Architecture
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://atiquehossain.github.io">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/atique-hossain/">LinkedIn</a> •
-  <a href="mailto:atiqueh23@gmail.com">Email</a> •
-  <a href="https://github.com/atiquehossain">GitHub</a>
-</p>
+## 📊 GitHub Motion Board
 
-<p align="center">
-  <i>Most of my experiments start with: “Can we automate this safely with AI?”</i>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=atiquehossain&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+<br/>
+<br/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atiquehossain&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atiquehossain&layout=compact&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=CBD5E1" alt="Top languages" />
+
+<br/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=atiquehossain&hide_border=true&background=020617&stroke=38BDF8&ring=7C3AED&fire=38BDF8&currStreakNum=F8FAFC&sideNums=CBD5E1&currStreakLabel=38BDF8&sideLabels=A78BFA&dates=94A3B8" alt="GitHub streak" />
+
+<br/>
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atiquehossain&bg_color=020617&color=38BDF8&line=7C3AED&point=F8FAFC&area=true&hide_border=true&custom_title=Contribution%20Flow" alt="GitHub activity graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Animated Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.svg" />
+  <img width="96%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+<br/>
+
+<img width="96%" src="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.gif" alt="Animated contribution snake GIF" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Connect With Me
+
+<a href="https://atiquehossain.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-020617?style=for-the-badge&logo=githubpages&logoColor=38BDF8" alt="Portfolio" />
+</a>
+<a href="https://www.linkedin.com/in/atique-hossain/">
+  <img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+</a>
+<a href="mailto:atiqueh23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Most+of+my+experiments+start+with%3A+Can+we+automate+this+safely+with+AI%3F" alt="Fun fact typing animation" />
+</a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,55:0EA5E9,100:020617" alt="Footer banner" />
+
+</div>
