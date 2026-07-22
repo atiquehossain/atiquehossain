@@ -180,11 +180,6 @@ Healthcare and education apps designed for low-connectivity field environments.
   <img width="96%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<br/>
-<br/>
-
-<img width="96%" src="https://raw.githubusercontent.com/atiquehossain/atiquehossain/output/github-contribution-grid-snake.gif" alt="Animated contribution snake GIF" />
-
 </div>
 
 ---
